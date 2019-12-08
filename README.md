@@ -46,3 +46,11 @@ You can destroy individual machines by vagrant destroy k8s-node-1 -f
 ## Licensing
 
 [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0).
+
+
+## Kubernetes tasks
+
+You can practice kuberetes task with this cluster. 
+
+You can find kubernetes tasks at 
+https://kubernetes.io/docs/tasks/
