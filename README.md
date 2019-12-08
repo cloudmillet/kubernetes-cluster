@@ -48,9 +48,17 @@ You can destroy individual machines by vagrant destroy k8s-node-1 -f
 [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0).
 
 
+
+# Learning Kubernetes
+
+You can learn kubernetes concepts using this cluster. 
+
 ## Kubernetes tasks
 
 You can practice kuberetes task with this cluster. 
 
 You can find kubernetes tasks at 
 https://kubernetes.io/docs/tasks/
+
+## Introduction to yaml - Creating a kubernetes deployment
+https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/
