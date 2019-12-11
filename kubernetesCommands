@@ -1,0 +1,8 @@
+
+Command to know about kubectl version
+
+```
+ kubectl version
+```
+
+
